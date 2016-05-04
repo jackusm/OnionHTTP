@@ -1,0 +1,2 @@
+* * * * * curl 127.0.0.1:49734/zy/cron/cron.php
+0 * * * * curl 127.0.0.1:49734/zy/cron/cron_history.php
